@@ -1,0 +1,15 @@
+# Environments
+.venv/
+env/
+__pycache__/
+
+# Data (Never commit raw industrial data to version control)
+data/raw/
+data/processed/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
